@@ -1,5 +1,5 @@
 package workshop
 
 func Version() string {
-	return "initial commit"
+	return "v1.0.0"
 }
